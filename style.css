@@ -1,0 +1,98 @@
+body{
+    font: 15px/1.5 arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    text-align: center;
+}
+
+#title-main {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+#title {
+    background-color: #35424a;
+    color:#FEFFFF;
+    padding-top: 1px;
+    border-bottom: #e8491d 3px solid;
+    
+}
+
+
+#title h5{
+    color: white ;
+    font-style: italic;
+    margin-top: 0;
+
+}
+
+#img-div{
+    background-color: #f4f4f4;
+}
+
+#img{
+    padding-top: 15px;
+    max-width: 85%;
+    display: block;
+    height: auto;
+    left: 50%;
+    right: 50%;
+    margin: auto;
+    padding-bottom: 15px;
+
+}
+
+#img-div p{
+    background-color: #e8491d;
+    color: white ;
+    margin: 0px;
+}
+
+
+#tribute-info{
+    background-color: #f4f4f4;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+#tribute-info-years{
+    text-align: justify;
+    margin: auto;
+    width: 40%;
+    color: white;
+    background-color: #35424a;
+    padding:20px;
+    padding-right: 40px;
+
+}
+
+#tribute-info-years li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 15px;
+    padding-top: 30px;;
+
+}
+
+#tribute-info-years h3{
+    text-align: center;
+}
+
+
+#link {
+    color: white;
+    background-color: #e8491d;
+    margin: 0;
+    padding: 15px;
+    position: relative;
+    display:block;
+}
+a{
+    color: white;
+    font-style: italic;
+}
+
